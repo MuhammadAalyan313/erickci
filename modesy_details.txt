@@ -1,0 +1,38 @@
+1ea0c815-ba6a-4404-94ce-844c6897c92e
+
+live license
+1ef52b7c7b0e67adac00e06bfe79ae19b0cd61fa
+
+localhost
+
+6d0af3e053c1cce1d715e255b6ea1e112c6b6596
+
+database user
+erickcis_erickcis
+
+password
+QPXit9lgqWY8
+
+database
+erickcis_modesy
+
+
+
+7bGOLLeUsukG
+erickci_modesy
+erickci_mod
+
+
+admin
+admin@domain.com
+1234
+
+
+SFTP
+staging-server.online
+stagi8627
+amAY#09^yV^sxO5l
+
+https://erickci.staging-server.online:2083/
+ username:erickci
+ password:U0PeNZ5jqY1G

@@ -1,0 +1,33 @@
+@media screen and (max-width:765px) {
+    .is_negotiable-box {
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+
+}
+
+.delete-popup-modal-container {
+    background: #ffffff;
+    min-height: 200px;
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+    position: static;
+    display: inline-block;
+    vertical-align: middle;
+    transition: 1s;
+}
+
+.delete-pop-modal {
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.2);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
